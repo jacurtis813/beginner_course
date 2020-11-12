@@ -1,5 +1,15 @@
 /*This will be the future stylesheet for beginner course */
 
 body {
-    background-color: #aef
+    background-color: rgb(100, 150, 125);
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+}
+
+p {
+    color: #cececc80;
 }
