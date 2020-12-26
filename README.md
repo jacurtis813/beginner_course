@@ -9,4 +9,4 @@
 5. Create the css stylesheet and create the file to hold the js files. 
 6. Begin the process all over from the very beginning- html tags and their uses.
 7. Update the readme file and the html file- save and push all content to git.
-8. 
+8. Next step, creating lists within the html document- ordered and unordered or bullet lists
